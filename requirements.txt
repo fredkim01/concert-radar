@@ -1,0 +1,4 @@
+spotipy
+requests
+twilio
+python-dotenv
